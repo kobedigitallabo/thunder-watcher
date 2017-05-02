@@ -7,9 +7,9 @@ This device can sense the approach of lightning within several dozen kilometers,
 - The intelligent algorithm provides for false disturber rejection.
 
 # Description
-The Thunder Watcher  is a programmable Wearable Device that detects the presence and approach of potentially hazardous lightning activity in the vicinity.
-It detects intra-cloud activity as well as cloud to ground  ashes, often enabling risk to be evaluated for approaching storms. 
-The AS3935 IC detects lightning activity as it approaches from up to 40 km away, which provides a much longer distance for lightning warning.
+ The Thunder Watcher  is a programmable Wearable Device that detects the presence and approach of potentially hazardous lightning activity in the vicinity.
+ It detects intra-cloud activity as well as cloud to ground ashes, often enabling risk to be evaluated for approaching storms. 
+ The AS3935 IC detects lightning activity as it approaches from up to 40 km away, which provides a much longer distance for lightning warning.
 
 # Demo
 ![ezgif.com-video-to-gif.gif (2.8 MB)](https://img.esa.io/uploads/production/attachments/3505/2017/04/27/10863/f30031aa-2af7-42f0-96c1-46a7f661c00a.gif)
