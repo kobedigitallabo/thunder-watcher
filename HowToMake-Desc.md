@@ -27,7 +27,9 @@ The pin number is as shown in the figure below.
 
 ## Solder tinned copper wire to pin header.  
 Pass the tinned copper wire through the hole near the No. 14 pin. And, solder it to pin No. 14.
-![スクリーンショット 2017-04-27 17.02.22.png (1.1 MB)](https://img.esa.io/uploads/production/attachments/3505/2017/04/27/10863/8116b5b1-243b-4877-9bcb-612a052d6a7b.png)
+
+<img width="500" alt="img" src="https://img.esa.io/uploads/production/attachments/3505/2017/04/27/10863/8116b5b1-243b-4877-9bcb-612a052d6a7b.png">
+
 
 Turn the board over and bend it as shown in the figure below. 
 And, cut the excess tinned copper wire.
@@ -79,10 +81,10 @@ Next, solder the tinned copper wire and round female pin header(The right end an
 ## Solder to 6x4 perfboard. 
 Solder the 6x4 perfboard to  the 7x7 perfboard  as shown in the figure below.  
 
-Adjust the position as shown below. 
+Adjust the position as shown below.  
 <img width="300" alt="img" src="https://img.esa.io/uploads/production/attachments/3505/2017/04/27/10863/be562f0e-9d8c-4947-9976-0f071da7451a.png">
  
-Solder it as shown in the figure below.
+Solder it as shown in the figure below. 
 <img width="300" alt="img" src="https://img.esa.io/uploads/production/attachments/3505/2017/04/27/10863/16df371c-f99e-4033-89d6-916ac8794317.png">
 
 
