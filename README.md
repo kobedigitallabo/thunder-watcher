@@ -67,20 +67,22 @@ And the distance to the thundercloud is displayed on the LCD display.
 ## Importing a FreqCounter Library
 [Lab3 \- Laboratory for Experimental Computer Science](http://interface.khm.de/index.php/lab/interfaces-advanced/arduino-frequency-counter-library/)
 
-In the Arduino IDE, navigate to Sketch > Include Library. At the top of the drop down list, select the option to "Add .ZIP Library''.
-You will be prompted to select the library you would like to add.
-Return to the Sketch > Import Library menu. You should now see the library at the bottom of the drop-down menu. It is ready to be used in your sketch. The zip file will have been expanded in the libraries folder in your Arduino sketches directory.
+1. In the Arduino IDE, navigate to Sketch > Include Library. 
+1. At the top of the drop down list, select the option to "Add .ZIP Library''.
+1. You will be prompted to select the library you would like to add.
+1. Return to the Sketch > Import Library menu. You should now see the library at the bottom of the drop-down menu.
+1. It is ready to be used in your sketch. The zip file will have been expanded in the libraries folder in your Arduino sketches directory.
 
 ## Importing a ST7032 Library
 [tomozh/arduino\_ST7032\- Arduino Liquid Crystal compatible library](https://github.com/tomozh/arduino_ST7032)
 
-When you are on arduino_ST7032 project page, you press the 'Download ZIP' button which is located under the "Clone or Download" drop down.
-This allows you to download the most recent version of the code as a zip archive.
+1. When you are on arduino_ST7032 project page, you press the 'Download ZIP' button which is located under the "Clone or Download" drop down.
+1. This allows you to download the most recent version of the code as a zip archive.
 ![image.png (23.1 kB)](https://img.esa.io/uploads/production/attachments/3505/2017/04/27/10863/a65fd15c-09f3-4e49-b687-ce3d5450ec5a.png)
-
-Down list, select the option to "Add .ZIP Library''.
+1. Down list, select the option to "Add .ZIP Library''.
 You will be prompted to select the library you would like to add.
-Return to the Sketch > Import Library menu. You should now see the library at the bottom of the drop-down menu. It is ready to be used in your sketch. The zip file will have been expanded in the libraries folder in your Arduino sketches directory.
+1. Return to the Sketch > Import Library menu. You should now see the library at the bottom of the drop-down menu. 
+1. It is ready to be used in your sketch. The zip file will have been expanded in the libraries folder in your Arduino sketches directory.
 
 # How to make
 More info is recorded in the "howtomake.md" file.
