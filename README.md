@@ -45,8 +45,7 @@ And the distance to the thundercloud is displayed on the LCD display.
 
 ![image.png (4.1 MB)](https://img.esa.io/uploads/production/attachments/3505/2017/05/02/10863/1bdc5e3a-7990-4fd5-8486-7ed1a0623e44.png)
 
-
-##  Tools You Need
+#  Tools You Need
 * Soldering iron
 * Soldering iron stand
 * Solder
@@ -85,20 +84,20 @@ You will be prompted to select the library you would like to add.
 1. It is ready to be used in your sketch. The zip file will have been expanded in the libraries folder in your Arduino sketches directory.
 
 # How to make
-More info is recorded in the "howtomake.md" file.
+More info is recorded in the "HowToMake-Desc.md" file.  
 [HowTo/arduino/How to make  Thunder Watcher.](/HowToMake-Desc.md)
 
 # Contribution
-1. Fork it ( http://github.com/ )
+1. Fork it (http://github.com/kobedigitallabo/thunder-watcher )
 2. Create your feature branch (git checkout -b my-new-feature)
 3. Commit your changes (git commit -am 'Add some feature')
 4. Push to the branch (git push origin my-new-feature)
 5. Create a new Pull Request
 
-
-
 # Licence
-[MIT](https://github.com/tcnksm/tool/blob/master/LICENCE)
+[MIT](/LICENSE.txt)
 
 # Author
+[kobedigitallabo](https://github.com/kobedigitallabo)
+
 [haru-kdl](https://github.com/haru-kdl)
