@@ -84,7 +84,7 @@ Return to the Sketch > Import Library menu. You should now see the library at th
 
 # How to make
 More info is recorded in the "howtomake.md" file.
-[HowTo/arduino/How to make  Thunder Watcher.](/HawToMake-Desc.md)
+[HowTo/arduino/How to make  Thunder Watcher.](/HowToMake-Desc.md)
 
 # Contribution
 1. Fork it ( http://github.com/ )
