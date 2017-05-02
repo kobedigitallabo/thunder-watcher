@@ -1,4 +1,4 @@
-How to make Thunder Watcher.
+The Thunder Watcher.
 ====
 This device can sense the approach of lightning within several dozen kilometers, and make an alert to hide.
 - Early warning indication of lightning storm activity within a 40km range.
@@ -43,7 +43,7 @@ And the distance to the thundercloud is displayed on the LCD display.
 * [a 150 Ohm Resistor, 1/4 W](https://www.amazon.com/E-Projects-100EP514150R-150-Resistors-Pack/dp/B0185FGNI4/ref=sr_1_1?s=industrial&ie=UTF8&qid=1493213161&sr=1-1&keywords=150+Ohm+Resistors)
 * [an Empty electronic lighter](https://www.amazon.com/Refillable-Cigarette-Lighter-Flashlight-Quantity/dp/B009Z2R1U6/ref=pd_bxgy_201_img_2?_encoding=UTF8&pd_rd_i=B009Z2R1U6&pd_rd_r=FFZ17SFNXYSHHH8J2C91&pd_rd_w=aNUmO&pd_rd_wg=rjKVa&psc=1&refRID=FFZ17SFNXYSHHH8J2C91)
 
-![image.png (5.3 MB)](https://img.esa.io/uploads/production/attachments/3505/2017/05/01/10863/1ebd8147-cf86-4365-9303-c85badda6248.png)
+<img width="700" alt="img" src="https://img.esa.io/uploads/production/attachments/3505/2017/05/01/10863/1ebd8147-cf86-4365-9303-c85badda6248.png">
 
 
 ##  Tools You Need
