@@ -51,6 +51,7 @@ Bend it as shown in the figure below.
 
 Pass the tinned copper wire through the hole near the No. 5 pin. And, solder it to pin No. 5.  
 <img width="300" alt="png" src="https://img.esa.io/uploads/production/attachments/3505/2017/04/27/10863/0d6bc7ca-5007-4c40-b64f-1fce078ab0fb.png">
+
 <img width="300" alt="png" src="https://img.esa.io/uploads/production/attachments/3505/2017/05/01/10863/bfb52126-86be-4afd-8bfe-2f6845cc9102.png">
 
 Bend it as shown in the figure below.  
@@ -64,31 +65,34 @@ Turn the board over and solder the tinned copper wire and round female pin heade
 ![Clip8.m4v 2017-04-27 17-52-48.png (72.0 kB)](https://img.esa.io/uploads/production/attachments/3505/2017/04/27/10863/d0824793-6db0-4d10-a2b4-1ec484a2ea06.png)
 
  Next, solder the tinned copper wire and round female pin header (in the middle)  connected to pin No. 14.  
-<img width="292" alt="Clip12.m4v 2017-04-27 20-52-08.png (347.5 kB)" src="https://img.esa.io/uploads/production/attachments/3505/2017/04/27/10863/436d99e4-e896-4a9b-a61a-62dbceb1c3ff.png">
-![image.png (304.0 kB)](https://img.esa.io/uploads/production/attachments/3505/2017/04/27/10863/2261d9f4-2032-4681-a14b-62206aef3743.png)
+<img width="300" alt="Clip12.m4v 2017-04-27 20-52-08.png (347.5 kB)" src="https://img.esa.io/uploads/production/attachments/3505/2017/04/27/10863/436d99e4-e896-4a9b-a61a-62dbceb1c3ff.png">
+
+<img width="300" alt="img" src="https://img.esa.io/uploads/production/attachments/3505/2017/04/27/10863/2261d9f4-2032-4681-a14b-62206aef3743.png">
 
 
 Next, solder the tinned copper wire and round female pin header(The right end and its next pin) connected to pin No. 1 and pin No. 2.  
-![Clip9.m4v 2017-04-27 18-02-24.png (84.6 kB)](https://img.esa.io/uploads/production/attachments/3505/2017/04/27/10863/3bb07238-bf30-45a2-b6e6-eed02e42836e.png)
-![image.png (192.0 kB)](https://img.esa.io/uploads/production/attachments/3505/2017/05/01/10863/40eabedf-77b3-4f4d-8f1a-73bba3746bff.png)
+<img width="300" alt="img" src="https://img.esa.io/uploads/production/attachments/3505/2017/04/27/10863/3bb07238-bf30-45a2-b6e6-eed02e42836e.png">
+
+<img width="300" alt="img" src="https://img.esa.io/uploads/production/attachments/3505/2017/05/01/10863/40eabedf-77b3-4f4d-8f1a-73bba3746bff.png">
 
 
 ## Solder to 6x4 perfboard. 
 Solder the 6x4 perfboard to  the 7x7 perfboard  as shown in the figure below.  
 
-Adjust the position as shown below.  
-![image.png (475.8 kB)](https://img.esa.io/uploads/production/attachments/3505/2017/04/27/10863/be562f0e-9d8c-4947-9976-0f071da7451a.png)
-
+Adjust the position as shown below. 
+<img width="300" alt="img" src="https://img.esa.io/uploads/production/attachments/3505/2017/04/27/10863/be562f0e-9d8c-4947-9976-0f071da7451a.png">
+ 
 Solder it as shown in the figure below.
-![image.png (416.2 kB)](https://img.esa.io/uploads/production/attachments/3505/2017/04/27/10863/16df371c-f99e-4033-89d6-916ac8794317.png)
+<img width="300" alt="img" src="https://img.esa.io/uploads/production/attachments/3505/2017/04/27/10863/16df371c-f99e-4033-89d6-916ac8794317.png">
+
 
 Solder to one pin.  
 Solder the height position to the beginning of the pin header.  
 With this pins soldered, try to test the header alignment.  
-![image.png (324.6 kB)](https://img.esa.io/uploads/production/attachments/3505/2017/04/27/10863/cd27f2b0-8636-499b-a5e8-23ee025ec1b3.png)
+<img width="300" alt="img" src="https://img.esa.io/uploads/production/attachments/3505/2017/04/27/10863/cd27f2b0-8636-499b-a5e8-23ee025ec1b3.png">
 
 Solder all remaining pins.  
-![image.png (968.6 kB)](https://img.esa.io/uploads/production/attachments/3505/2017/04/27/10863/fef40cdd-e947-4b71-9a83-8b01d166d2a1.png)
+<img width="300" alt="img" src="https://img.esa.io/uploads/production/attachments/3505/2017/04/27/10863/fef40cdd-e947-4b71-9a83-8b01d166d2a1.png">
 
 
 ## Solder round female pin header to 6x4 perfboard. 
