@@ -173,6 +173,7 @@ Pスズメッキ線を5番ピンの近くの穴から通します。
 <img width="300" alt="img" src="https://img.esa.io/uploads/production/attachments/3505/2017/04/27/10863/b93c0828-d1b3-42ed-969e-cfd6006f8937.png">
 
 横からみた場合。
+
 <img width="300" alt="img" src="https://img.esa.io/uploads/production/attachments/3505/2017/04/27/10863/d6bc490b-e5f3-4155-9a94-8ddc79990648.png">
 
 真上からみた場合。  
@@ -190,127 +191,161 @@ Pスズメッキ線を5番ピンの近くの穴から通します。
 ## Arduino nano を準備します。
 <img width="300" alt="Clip12.m4v 2017-04-27 20-38-15.png (1.1 MB)" src="https://img.esa.io/uploads/production/attachments/3505/2017/04/27/10863/689eedac-aa8f-4d88-80ca-f9e97fdec34f.png">
 
-Insert the shield in the position shown in the figure below.  
+シールドを下図の位置に差し込みます。  
+
 <img width="300" alt="img" src="https://img.esa.io/uploads/production/attachments/3505/2017/04/27/10863/0f6b5a26-7f86-413c-9d96-61e479f8ff48.png">
 
-Solder to Arduino nano as shown in the figure below.  
+ Arduino nano を下図の通りにはんだ付けします。  
+
 <img width="300" alt="img" src="https://img.esa.io/uploads/production/attachments/3505/2017/04/27/10863/5ce7ec66-6c4b-476e-b94c-c8b5e7fdada2.png">
 
+3.3v ピンの方向にスズメッキ線を折り曲げます。  
 
-Bend the tinned copper wire in the 3.3V pin direction.  
 <img width="300" alt="Clip12.m4v 2017-04-27 21-06-29.png (1.1 MB)" src="https://img.esa.io/uploads/production/attachments/3505/2017/04/27/10863/206f67f4-5891-426f-8e6d-d73120b6f72e.png">
 
-View from the side.  
+横からみた場合。  
+
 <img width="300" alt="Clip12.m4v 2017-04-27 21-12-16.png (646.3 kB)" src="https://img.esa.io/uploads/production/attachments/3505/2017/04/27/10863/ff552b6a-74aa-43bc-9b6a-b312a17c56df.png">
 
-Solder to the 3.3V pin.  
+3.3Vピンにはんだ付けします。
+
 <img width="300" alt="Clip12.m4v 2017-04-27 21-14-07.png (677.6 kB)" src="https://img.esa.io/uploads/production/attachments/3505/2017/04/27/10863/b834c265-d6cd-4f4c-ba2f-b292d3c86dbf.png">
 
-## Connecting LED.
-Bend the resistor.  
+## LEDを取り付ける
+抵抗を折り曲げます。  
+
 <img width="300" alt="img" src="https://img.esa.io/uploads/production/attachments/3505/2017/04/27/10863/678f9a62-7bab-43ac-ba35-9281baa0c442.png">
 
-Cut the resistor lead short and solder the lead to pin No. 10.  
+抵抗の端子を短く切断し10番ピンにはんだ付けします。
+
 <img width="300" alt="Clip13.m4v 2017-04-27 21-19-39.png (1.6 MB)" src="https://img.esa.io/uploads/production/attachments/3505/2017/04/27/10863/fe0e101e-90b5-4156-88fb-9ce2205e2060.png">
 
-Bend the resistance and about cut short.  
+抵抗を折り曲げて短く切断します。
+
 <img width="300" alt="Clip13.m4v 2017-04-27 21-22-40.png (470.0 kB)" src="https://img.esa.io/uploads/production/attachments/3505/2017/04/27/10863/34b82040-b918-4e1b-9858-1fdfa6e79e99.png">
 
-Attach a diffused beam cover to the LED.  
-Short cut the LED lead.  
-Bend it as shown in the figure below.  
+LEDに拡散キャップをとりつけます。
+LEDの端子を短く切断します。
+下図の通りに折り曲げます。
+ 
 <img width="300" alt="img" src="https://img.esa.io/uploads/production/attachments/3505/2017/04/27/10863/3cce87c4-03ef-47e4-baa1-2a0fb5cc1f6f.png">
 
-Solder the LED as shown in the figure below.  
+LEDを下図の通りにはんだ付けします。
+
 <img width="300" alt="Clip13.m4v 2017-04-27 21-29-10.png (847.6 kB)" src="https://img.esa.io/uploads/production/attachments/3505/2017/04/27/10863/a056f18c-fe74-4822-a502-812d3fab4d9a.png">
 
-Bend the LED lead in the No. 13 pin direction.  
+LEDの端子を13番ピンに向けて折り曲げます。
+
 <img width="300" alt="img" src="https://img.esa.io/uploads/production/attachments/3505/2017/04/27/10863/ab4ea04c-629a-4112-ac16-50960ed3c197.png">
 
-Solder it as shown in the figure below.  
+下図の通りにはんだ付けします。
+
 <img width="300" alt="Clip13.m4v 2017-04-27 21-35-22.png (669.5 kB)" src="https://img.esa.io/uploads/production/attachments/3505/2017/04/27/10863/acfbfef5-52b1-4cfb-acbe-4c2a59c9fda8.png">
 
-View from the side.  
+横からみた場合。
+
 <img width="300" alt="Clip13.m4v 2017-04-27 21-37-53.png (702.6 kB)" src="https://img.esa.io/uploads/production/attachments/3505/2017/04/27/10863/b5b33832-34d0-442c-a891-b810ede50c74.png">
 
-## Assemble the lightning sensor.  
-Solder the pin header to the lightning sensor.  
+## 雷センサを組み立てます
+雷センサにピンヘッダをはんだ付けします。  
+
 <img width="300" alt="img" src="https://img.esa.io/uploads/production/attachments/3505/2017/04/27/10863/a27c5cdd-52f3-4a6a-8c17-e954f1af4780.png">
 
-Cut the lead a little bit shorter.  
+端子を少しだけ短くカットします。
+
 <img width="300" alt="Clip13.m4v 2017-04-27 21-43-12.png (296.2 kB)" src="https://img.esa.io/uploads/production/attachments/3505/2017/04/27/10863/604c7771-a755-4ff0-b01a-a9b0b8b6bfb7.png">
 
-Plug it into the shield.  
+シールドに取り付けます。
+
 <img width="300" alt="img" src="https://img.esa.io/uploads/production/attachments/3505/2017/04/27/10863/31ba0dfb-bdce-4f89-a304-3f9a875756fb.png">
 
 
-## Attach LCD display.  
+## LCD ディスプレイの取り付け
+
 <img width="300" alt="img" src="https://img.esa.io/uploads/production/attachments/3505/2017/04/27/10863/8be50376-029a-45db-9647-298b268e1a65.png">
 
-Plug it into the shield.  
+シールドに取り付けます。 
+
 <img width="300" alt="img" src="https://img.esa.io/uploads/production/attachments/3505/2017/04/27/10863/70691492-355c-437b-b8b0-f8a15109ced4.png">
 
-## Write the program to the Arduino. 
-Connect PC to the Arduino.  
+## Arduinoへプログラムを書き込む
+PCとArduinoを接続します。
+
 <img width="300" alt="img" src="https://img.esa.io/uploads/production/attachments/3505/2017/04/27/10863/b026e13c-ac56-48e6-a978-604bbe2a2853.png">
 
-Download the source code from below.  
+ソースコードは以下よりダウンロードしておきます。
+  
 [kobedigitallabo/thunder\-watcher](https://github.com/kobedigitallabo/thunder-watcher)
 
-Write the program from Arduino IDE.  
+Arduino IDEよりプログラムを書き込みます。
+  
 <img width="300" alt="img" src="https://img.esa.io/uploads/production/attachments/3505/2017/05/02/10863/b31fa435-c895-4c56-b706-cb0ef4231a05.png">
 
-## Creation of pseudo lightning generator.
+## 疑似雷発生装置の作成
  
-Prepare an Empty electronic lighter and needle nose pliers.  
+空になった電子ライターとニッパーを準備します。  
+
 <img width="300" alt="img" src="https://img.esa.io/uploads/production/attachments/3505/2017/05/01/10863/e5a6dfab-e259-4062-8f72-aaa7b1617da0.png">
 
-Remove the lighter metal cap with the needle nose pliers.  
+ニッパーでライターの金属キャップを取り外します。  
+
 <img width="300" alt="img" src="https://img.esa.io/uploads/production/attachments/3505/2017/05/01/10863/354a4cc0-2db5-4dd1-b975-ce0141ddcf50.png">
 
-To complete a pseudo lightning generator.  
+これで完成です。
 
 
-## Test. 
-Confirm that it normally.  
+
+## 動作確認
+正常に動作している事を確認します。
+  
 <img width="300" alt="img" src="https://img.esa.io/uploads/production/attachments/3505/2017/04/27/10863/ad2ec67a-859f-431c-a324-bf5bdcb79581.png">
 
-## Attach watch belt.  
-Remove the belt from the watch.  
+## 時計ベルトの取付
+時計からベルトを取り外します。
+
 <img width="300" alt="img" src="https://img.esa.io/uploads/production/attachments/3505/2017/05/01/10863/2ce584a1-a143-4fc8-b6a8-02b25c1c5e1a.png">
 
-Use the tinned copper wire to tie Arduino and watch belt.  
+スズメッキ線を使いArduinoとベルトを結びつけます。
+
 <img width="300" alt="img" src="https://img.esa.io/uploads/production/attachments/3505/2017/05/01/10863/36e9b93c-d77f-4010-a107-c96d78c90a34.png">
 
-Also install the watch belt on the other side.  
+反対側もベルトを取り付けます。
+  
 <img width="300" alt="img" src="https://img.esa.io/uploads/production/attachments/3505/2017/05/01/10863/9212f142-ae04-4283-9fa2-497e9dcf7199.png">
 
-Tie the tinned copper wire with the needle nose pliers.  
+ラジオペンチで、スズメッキ線を結びます。
+
 <img width="300" alt="img" src="https://img.esa.io/uploads/production/attachments/3505/2017/05/01/10863/cdbcf72d-206d-448e-895e-ec6a6c618f7d.png">
 
-## Attach battery holder. 
-Cut the battery holder cable to the appropriate length.  
+## バッテリーホルダーの取付
+適切な長さにバッテリーホルダーのケーブルを切断します。
+
 <img width="300" alt="img" src="https://img.esa.io/uploads/production/attachments/3505/2017/05/01/10863/ed1d30d3-eb12-48e1-adca-1871af078021.png">
 
-Solder the positive side cable to the VIN pin.  
-Solder the minus side cable to the GND pin.  
+VINピンにプラス側のケーブルをはんだ付けします。
+GNDピンにマイナス側のケーブルをはんだ付けします。 
+
 <img width="300" alt="img" src="https://img.esa.io/uploads/production/attachments/3505/2017/05/01/10863/8a0c55df-86f3-47bc-a21a-44f31dc5636c.png">
 
-Glue the battery holder with glue gun.  
+グルーガンでバッテリーホルダーを接着します。
+
 <img width="300" alt="img" src="https://img.esa.io/uploads/production/attachments/3505/2017/05/01/10863/b594c534-07e2-4235-8b4b-b05dcb56a68c.png">
 
-Insert the coin battery and turn on the switch.  
+コイン電池をいれて、スイッチをオンにします。  
 <img width="300" alt="img" src="https://img.esa.io/uploads/production/attachments/3505/2017/05/01/10863/556ab4c4-0c49-4d1a-8029-bbde63d87d57.png">
 
-## Final testing.  
-Confirm that it normally.  
+## 最終動作確認
+
+正常に動作している事を確認します。
+
 <img width="300" alt="img" src="https://img.esa.io/uploads/production/attachments/3505/2017/04/27/10863/f30031aa-2af7-42f0-96c1-46a7f661c00a.gif">
 
-All is completed with this.  
-Have a nice prototyping.  
+以上で完成です。
+お疲れ様でした。
 
-# Licence
+
+# ライセンス
 [MIT](https://github.com/kobedigitallabo/thunder-watcher/blob/master/LICENSE.txt)
 
-# Author
+# 著者
 [haru-kdl](https://github.com/haru-kdl)
