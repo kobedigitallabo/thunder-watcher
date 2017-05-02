@@ -187,7 +187,7 @@ Pスズメッキ線を5番ピンの近くの穴から通します。
   
 <img width="300" alt="Clip12.m4v 2017-04-27 20-36-17.png (645.5 kB)" src="https://img.esa.io/uploads/production/attachments/3505/2017/04/27/10863/2c01b097-d5ad-4325-bd5c-9c7840b7511a.png">
 
-## Prepare Arduino nano.
+## Arduino nano を準備します。
 <img width="300" alt="Clip12.m4v 2017-04-27 20-38-15.png (1.1 MB)" src="https://img.esa.io/uploads/production/attachments/3505/2017/04/27/10863/689eedac-aa8f-4d88-80ca-f9e97fdec34f.png">
 
 Insert the shield in the position shown in the figure below.  
