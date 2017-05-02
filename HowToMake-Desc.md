@@ -84,7 +84,7 @@ Solder the 6x4 perfboard to  the 7x7 perfboard  as shown in the figure below.
 Adjust the position as shown below.  
 <img width="300" alt="img" src="https://img.esa.io/uploads/production/attachments/3505/2017/04/27/10863/be562f0e-9d8c-4947-9976-0f071da7451a.png">
  
-Solder it as shown in the figure below. 
+Solder it as shown in the figure below.  
 <img width="300" alt="img" src="https://img.esa.io/uploads/production/attachments/3505/2017/04/27/10863/16df371c-f99e-4033-89d6-916ac8794317.png">
 
 
