@@ -65,7 +65,7 @@ And the distance to the thundercloud is displayed on the LCD display.
 
 
 # The circuit
-<img width="500" alt="ThunderWatcher_circuit.png (495.1 kB)" src="https://img.esa.io/uploads/production/attachments/3505/2017/04/25/10863/da87048f-377e-47b5-bef6-a7888beddea0.png">
+<img width="500" alt="ThunderWatcher_circuit.png (492.4 kB)" src="https://img.esa.io/uploads/production/attachments/3505/2017/12/01/10863/bd9d7514-713f-47cf-9663-3e02a5c4d869.png">
 
 # Install
 ## Importing a FreqCounter Library
