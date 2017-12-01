@@ -2,7 +2,7 @@ The Thunder Watcher.
 ====
 This device can sense the approach of lightning within several dozen kilometers, and make an alert to hide.
 - Early warning indication of lightning storm activity within a 40km range.
-- Provides distance estimation to the head of the storm.
+- Provide you distance estimation from a overhead thunderstorm.
 - Detects both cloud-to-ground and intra-cloud (cloud-to-cloud) flashes.
 - The intelligent algorithm provides for false disturber rejection.
 
